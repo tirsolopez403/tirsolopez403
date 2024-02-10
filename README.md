@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @tirsolopez403
+- 👀 I’m interested in bitcoin
+- 🌱 I’m currently learning web3
